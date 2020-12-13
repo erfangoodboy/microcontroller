@@ -45,7 +45,7 @@ void main(void)
                 delay_ms(50);
                 LED4 = turn_off;     
                 
-                LED5 = ON;
+                LED5 = turn_on;
                 delay_ms(50);
                 LED5 = turn_off;       
                 

@@ -1,7 +1,6 @@
 #include <mega16.h>
 #include <delay.h>
 
-// Declare your global variables here
 #define LED0 PORTB.0
 #define LED1 PORTB.1
 #define LED2 PORTB.2
@@ -22,9 +21,11 @@ void main(void)
     PORTB = 0x00;
     #asm("sei")
 
-    while (1) {  
+    while (1) {
             if(PINA.0==1)    
-            {  
+            {    
+                //sense input 1  
+
                 LED0 = turn_on;
                 delay_ms(50);
                 LED0 = turn_off;
