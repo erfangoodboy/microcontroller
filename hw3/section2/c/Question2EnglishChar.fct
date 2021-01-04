@@ -1,0 +1,9 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"Question2EnglishChar.c" LINE:64
+lcd_init DSTACK_USAGE:1 DSTACK_LEVEL:1 FILE:"C:\cvavr\lib\alcd.lib" LINE:300
+_lcd_write_data DSTACK_USAGE:1 DSTACK_LEVEL:2 FILE:"C:\cvavr\lib\alcd.lib" LINE:161
+_lcd_write_nibble DSTACK_USAGE:1 DSTACK_LEVEL:3 FILE:"C:\cvavr\lib\alcd.lib" LINE:139
+timer0_ovf_isr DSTACK_USAGE:12 DSTACK_LEVEL:15 FILE:"Question2EnglishChar.c" LINE:35
+lcd_putchar DSTACK_USAGE:1 DSTACK_LEVEL:16 FILE:"C:\cvavr\lib\alcd.lib" LINE:265
+lcd_gotoxy DSTACK_USAGE:2 DSTACK_LEVEL:18 FILE:"C:\cvavr\lib\alcd.lib" LINE:247
+_lcd_write_data DSTACK_USAGE:1 DSTACK_LEVEL:19 FILE:"C:\cvavr\lib\alcd.lib" LINE:161
+_lcd_write_nibble DSTACK_USAGE:1 DSTACK_LEVEL:20 FILE:"C:\cvavr\lib\alcd.lib" LINE:139
