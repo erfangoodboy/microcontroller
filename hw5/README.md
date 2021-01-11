@@ -1,5 +1,5 @@
 ## How to run : 
-# for run any section in capture proteus click them and select section tou want :)
+# for run any section in capture proteus double click avr and select section you want :)
 
 ## How to find Me ? 
 
