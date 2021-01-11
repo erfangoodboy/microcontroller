@@ -1,0 +1,2 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"section1&2.c" LINE:44
+timer0_ovf_isr DSTACK_USAGE:4 DSTACK_LEVEL:4 FILE:"section1&2.c" LINE:14
